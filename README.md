@@ -10,7 +10,7 @@
   <br>
 </div>
 
-<h3>⚡ Professional Summary</h3>
+<h3>⚡ Sobre mi</h3>
 <p>
   Ingeniero de Software enfocado en el desarrollo <b>Backend</b> de alto nivel. Me especializo en construir arquitecturas robustas y escalables, priorizando siempre las buenas prácticas, principios <b>SOLID</b> y <b>Arquitectura Hexagonal</b>.
 </p>
@@ -23,7 +23,7 @@
 
 <br>
 
-<h3>💻 Tech Stack Principal</h3>
+<h3>💻 Stack Principal</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres" alt="Java Stack" />
   <br><br>
