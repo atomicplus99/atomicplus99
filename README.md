@@ -1,8 +1,6 @@
 <div align="center">
   <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="15%" />
-
   <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="15%" />
-
   <img src="banner-arias.png" width="60%" alt="Abel Arias - Duque Code" />
 </div>
 <br clear="all">
@@ -11,12 +9,11 @@
 <h3 align="center">Ingeniero de Software | Backend Specialist (Java & NestJS)</h3>
 
 <p align="center">
-  Soy un desarrollador apasionado de <b>Perú</b> 🇵🇪, especializado en la construcción de arquitecturas escalables y APIs RESTful robustas. Me enfoco en el desarrollo <b>Backend</b> utilizando buenas prácticas como <b>Arquitectura Hexagonal</b> y principios <b>SOLID</b> para crear software de alta calidad.
+  Soy un desarrollador de <b>Perú</b> 🇵🇪, enfocado en la construcción de arquitecturas escalables y APIs RESTful robustas. Mi especialidad es el desarrollo <b>Backend</b>, implementando microservicios y aplicando buenas prácticas como <b>Arquitectura Hexagonal</b> y principios <b>SOLID</b> para garantizar software de alta calidad.
 </p>
 
 <p align="center">
-  🔭 Actualmente estoy profundizando en microservicios y despliegue en la nube.<br>
-  🌱 Experto en integración Full Stack con <b>Angular</b> y gestión avanzada de bases de datos <b>SQL</b>.
+  🔭 Actualmente profundizando en despliegue en la nube (AWS) y optimización de bases de datos <b>SQL</b>.
 </p>
 
 <p align="center">
@@ -24,19 +21,17 @@
 </p>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="45" height="45" style="margin: 0 10px;" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="45" height="45" style="margin: 0 10px;" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45" style="margin: 0 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="45" height="45" style="margin: 0 10px;" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="50" height="50" style="margin: 0 10px;" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50" style="margin: 0 10px;" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" style="margin: 0 10px;" />
-  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="50" height="50" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="45" height="45" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45" style="margin: 0 10px;" />
 </div>
 
 <br>
