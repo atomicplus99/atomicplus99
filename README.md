@@ -1,142 +1,121 @@
-<div align="center">
-  <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="10%" />
-  <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="10%" />
-  
-  <br>
-  <img src="banner-arias.png" width="80%" alt="Abel Arias - Duque Code" />
-  
-  <h1 align="center">Abel Arias</h1>
-  <h3 align="center">Backend Engineer | Java Spring Boot & NestJS</h3>
-  <br>
-</div>
-
-<h3>⚡ Sobre mi</h3>
-<p>
-  Ingeniero de Software enfocado en el desarrollo <b>Backend</b> de alto nivel. Me especializo en construir arquitecturas robustas y escalables, priorizando siempre las buenas prácticas, principios <b>SOLID</b> y <b>Arquitectura Hexagonal</b>.
-</p>
-
-<ul>
-  <li>🎯 <b>Enfoque Actual:</b> Desarrollo de Microservicios, APIs RESTful complejas y despliegue en la nube (AWS/Docker).</li>
-  <li>🛠️ <b>Backend Mastery:</b> Desarrollo lógica de negocio avanzada con <b>Java (Spring Boot)</b> y TypeScript (NestJS).</li>
-  <li>🤝 <b>Integración:</b> Capacidad para conectar servicios con Frontend (Angular) y gestión optimizada de Bases de Datos SQL.</li>
-</ul>
-
-<br>
-
-<h3>💻 Stack Principal</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres" alt="Java Stack" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=ts,nestjs,docker,aws,git" alt="JS Stack" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=angular,html,css" height="40" alt="Frontend" />
-</div>
-
-<br>
-
-<h3>📊 GitHub Activity</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atomicplus99&show_icons=true&theme=radical&hide_border=true&count_private=true&hide=stars" height="160" alt="stats graph" />
-</p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=atomicplus99&label=Profile%20Views&color=00ff41&style=flat" alt="atomicplus99" />
-</div>
-
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding GIF" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I’m currently working on **UA IT(JKH IT)**
+<h1 align="left">Hola, soy Abel Arias 👋</h1>
+<h3 align="left">Backend Software Engineer | Java (Spring Boot) & NestJS</h3>
 
-- 🌱 I’m currently learning **Devops**
+- 🔭 Actualmente estoy desarrollando **Arquitecturas de Microservicios Escalamientos**
 
-- 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
+- 🌱 Estoy profundizando en **DevOps, AWS Cloud y Optimización de Bases de Datos**
 
-- 💬 Ask me about **Java, Python, PHP and NodeJS**
+- 👨‍💻 Mis proyectos destacan por el uso de **Arquitectura Hexagonal y Principios SOLID**
 
-- 📫 How to reach me **supunnanayakkara01@gmail.com**
+- 💬 Pregúntame sobre **Java, Spring Security, NestJS y Lógica de Negocio Compleja**
 
-- 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
+- 📫 Contáctame en **abel.ariase.soft@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny**
+- 📄 Revisa mi experiencia: **Especialista en Backend y Sistemas de Gestión**
+
+- ⚡ Dato curioso: **Me encanta refactorizar código monolítico a microservicios**
 
 <br>
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">Conecta conmigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/9565088/supun-nanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="supun-nanayakkara" height="30" width="40" /></a>
-<a href="https://fb.com/supun.nanayakkaraii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="supun.nanayakkaraii" height="30" width="40" /></a>
-<a href="https://instagram.com/supun___lk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="supun nanayakkara" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/TU_USUARIO_LINKEDIN" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  </a>
+  <a href="mailto:abel.ariase.soft@gmail.com" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" height="30" width="40" />
+  </a>
+  <a href="https://github.com/atomicplus99" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" />
+  </a>
 </p>
 <br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Lenguajes y Herramientas:</h3>
 
-- Backend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
-  </a>
-</p>
-
-- Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
-  </a>
-</p>
-
-- Database
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-  </a>
-</p>
-
-- Cloud Servers
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
-  </a>
-</p>
-
-- Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" /><br>Java
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=spring" width="40" height="40" alt="Spring" /><br>Spring
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" /><br>TypeScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nestjs" width="40" height="40" alt="NestJS" /><br>NestJS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node" /><br>Node.js
+    </td>
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=hibernate" width="40" height="40" alt="Hibernate" /><br>Hibernate
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" /><br>MySQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="Postgres" /><br>Postgres
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" /><br>Docker
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS" /><br>AWS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=angular" width="40" height="40" alt="Angular" /><br>Angular
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" /><br>Git
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Trophy:</h3>
+<h3 align="left">Trofeos:</h3>
 
 <p align="center">
-<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
+  <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="100px" height="100px">
+</p>
   
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=supuna97&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
- </div>
+  <img src="https://github-profile-trophy.vercel.app/?username=atomicplus99&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
+</div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=supuna97&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
- </div>
- <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=atomicplus99&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
+</div>
+<br><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">GitHub Stats:</h3>
+<h3 align="left">Estadísticas de GitHub:</h3>
 <div align="center">
  
-![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=supuna97\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+  <img src="https://github-readme-stats.vercel.app/api?username=atomicplus99&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&hide=stars&show=reviews,prs_merged,prs_merged_percentage" />
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=supuna97&theme=midnight-purple)](https://git.io/streak-stats)
+  <br><br>
+
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=atomicplus99&theme=midnight-purple&hide_border=true" />
+  </a>
+  
+  <br><br>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atomicplus99&layout=compact&theme=midnight-purple&hide_border=true" />
 
 </div>
 
@@ -144,21 +123,19 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Activity:</h3>
+<h3 align="left">Actividad Reciente:</h3>
 
-![Supuna97's Graph](https://github-readme-activity-graph.vercel.app/graph?username=supuna97&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atomicplus99&custom_title=Actividad%20de%20Abel%20Arias&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" />
+</div>
 <br><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Achievements:</h3>
-
-[![An image of @supuna97's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/supuna97)](https://holopin.io/@supuna97)
-<br><br><br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
-<br>
-<p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">Supun Nanayakkara</a></p>
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+  <br>
+  <em><b>Siempre abierto a conectar y colaborar en proyectos desafiantes.</b> ¡Escríbeme! :)</em>
+  <br><br>
+  <p align="right"> Perfil actualizado por <a href="https://github.com/atomicplus99">Abel Arias</a> </p>
+</div>
