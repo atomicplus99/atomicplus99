@@ -8,7 +8,7 @@
   <h1 align="center">Abel Arias Espino</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9E4C9E&center=true&vCenter=true&width=550&lines=Backend+Software+Engineer;Java+(Spring+Boot)+%26+NestJS;Arquitectura+Hexagonal+%26+SOLID;APIs+RESTful+%26+SQL+Avanzado" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9E4C9E&center=true&vCenter=true&width=500&lines=Backend+Software+Engineer;Java+(Spring+Boot)+%26+NestJS;Microservicios+%26+Cloud+AWS;Arquitectura+Hexagonal+%2B+SOLID" alt="Typing SVG" />
   </a>
 </div>
 
@@ -18,21 +18,24 @@
 
 <h3 align="left">🚀 Sobre mí:</h3>
 
-- 🎓 Técnico en **Ingeniería de Software**, especializado en **desarrollo Backend**.
-- 🔧 Dominio de **Java (Spring Boot)** y **TypeScript (NestJS)** en el diseño de **APIs RESTful**.
-- 🧱 Aplicación de **Arquitectura Hexagonal** y principios **SOLID** para construir sistemas escalables y mantenibles.
-- 💼 Experiencia en **desarrollo de sistemas de gestión (ERP y control de asistencia)**.
-- 🤖 Integración de **bots de Telegram** vía API RESTful para notificaciones en tiempo real.
-- 🗄️ Experiencia sólida en **bases de datos SQL**, modelado, optimización de consultas y manejo de alta concurrencia.
-- 🎨 Integración **Full Stack con Angular** para paneles administrativos.
-- 💬 Intereses técnicos: **optimización SQL, diseño de soluciones y arquitectura de software**.
+- 🔭 Actualmente lidero el desarrollo de **Sistemas Backend Escalables** usando Java y TypeScript.
+
+- 🌱 Me encuentro profundizando en **DevOps, CI/CD y Orquestación con Kubernetes**.
+
+- 👨‍💻 Mis proyectos se caracterizan por el uso estricto de **Clean Architecture y DDD**.
+
+- 💼 Experiencia clave: **Desarrollo de Sistemas de Gestión (ERP/Asistencia)** integrando APIs de mensajería (Telegram).
+
+- 💬 Hablemos sobre: **Optimización de consultas SQL, Patrones de Diseño y Seguridad en APIs**.
+
 - 📫 Contacto directo: **abel.ariase.soft@gmail.com**
+
 - ⚡ Filosofía: *"El código funciona cuando se escribe, pero perdura cuando se diseña bien."*
 
 <br>
 <h3 align="left">🤝 Conecta conmigo:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/aarias-code/" target="blank">
+  <a href="https://linkedin.com/in/TU_USUARIO_LINKEDIN" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
   <a href="mailto:abel.ariase.soft@gmail.com" target="blank">
@@ -42,7 +45,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" />
   </a>
 </p>
-
 <br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
