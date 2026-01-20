@@ -8,7 +8,7 @@
   <h1 align="center">Abel Arias Espino</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9E4C9E&center=true&vCenter=true&width=560&lines=Backend+Software+Engineer;Java+(Spring+Boot)+%26+NestJS;Arquitectura+Hexagonal+%26+SOLID;Microservicios+%26+Cloud+Foundations" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9E4C9E&center=true&vCenter=true&width=560&lines=Software+Engineer+Tech;Backend+Engineering;Java+(Spring+Boot)+%26+NestJS;Arquitectura+Hexagonal+%26+SOLID" alt="Typing SVG" />
   </a>
 </div>
 
@@ -16,30 +16,38 @@
 
 <img align="right" alt="Coding GIF" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-<h3 align="left">🚀 Sobre mí:</h3>
+<h3 align="left">🚀 Sobre mí — <i>Software Engineer Tech</i></h3>
 
-- 🎓 **Técnico en Ingeniería de Software** con enfoque sólido en **Backend Engineering**.
-- 🧠 Apasionado por el **diseño de sistemas bien estructurados**, legibles y preparados para escalar.
-- 🔧 Especializado en **Java (Spring Boot)** y **TypeScript (NestJS)** para la construcción de **APIs RESTful robustas**.
-- 🧱 Fuerte orientación a **Arquitectura Hexagonal**, **Clean Architecture** y principios **SOLID** como base del desarrollo.
-- 🌱 Actualmente profundizando en **arquitectura de microservicios**, comunicación entre servicios y fundamentos cloud.
-- 🗄️ Experiencia trabajando con **bases de datos SQL**, modelado de dominio y optimización de consultas.
-- 🎯 Mentalidad enfocada en **calidad de código**, mantenibilidad y soluciones técnicas bien pensadas.
-- 📫 Contacto directo: **abel.ariase.soft@gmail.com**
-- ⚡ Filosofía: *"El código funciona cuando se escribe, pero perdura cuando se diseña bien."*
+<table>
+  <tr>
+    <td>
+
+- **Software Engineer Tech** enfocado en **Backend Engineering**.  
+- Desarrollo de **APIs REST** con **Java (Spring Boot)** y **TypeScript (NestJS)**.  
+- Diseño de software basado en **Arquitectura Hexagonal, Clean Architecture y SOLID**.  
+- Fuerte criterio en **modelado de dominio**, mantenibilidad y escalabilidad.  
+- Experiencia con **bases de datos SQL** y optimización de consultas.  
+- Actualmente profundizando en **arquitectura de microservicios** y fundamentos **cloud**.  
+- 📫 **abel.ariase.soft@gmail.com**
+
+> ⚡ *“Menos magia, más diseño.”*
+
+    </td>
+  </tr>
+</table>
 
 <br>
 
 <h3 align="left">🤝 Conecta conmigo:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/aarias-code/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
-  <a href="mailto:abel.ariase.soft@gmail.com" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" height="30" width="40" />
+  <a href="mailto:abel.ariase.soft@gmail.com">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="40" />
   </a>
-  <a href="https://github.com/atomicplus99" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" />
+  <a href="https://github.com/atomicplus99">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
   </a>
 </p>
 
@@ -53,67 +61,45 @@
   <table>
     <tr>
       <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java" />
-        <br><b>Java Core</b>
+        <img src="https://skillicons.dev/icons?i=java" width="45" />
+        <br><b>Java</b>
       </td>
       <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=spring" width="45" height="45" alt="Spring" />
+        <img src="https://skillicons.dev/icons?i=spring" width="45" />
         <br><b>Spring Boot</b>
       </td>
       <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=ts" width="45" height="45" alt="TypeScript" />
+        <img src="https://skillicons.dev/icons?i=ts" width="45" />
         <br><b>TypeScript</b>
       </td>
       <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=nestjs" width="45" height="45" alt="NestJS" />
+        <img src="https://skillicons.dev/icons?i=nestjs" width="45" />
         <br><b>NestJS</b>
       </td>
       <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node" />
-        <br><b>Node.js</b>
+        <img src="https://skillicons.dev/icons?i=docker" width="45" />
+        <br><b>Docker</b>
       </td>
     </tr>
     <tr>
       <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=hibernate" width="45" height="45" alt="Hibernate" />
-        <br><b>JPA/Hibernate</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" />
-        <br><b>MySQL</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="Postgres" />
+        <img src="https://skillicons.dev/icons?i=postgres" width="45" />
         <br><b>PostgreSQL</b>
       </td>
       <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker" />
-        <br><b>Docker</b>
+        <img src="https://skillicons.dev/icons?i=mysql" width="45" />
+        <br><b>MySQL</b>
       </td>
       <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="AWS" />
-        <br><b>AWS Cloud</b>
+        <img src="https://skillicons.dev/icons?i=aws" width="45" />
+        <br><b>AWS</b>
       </td>
-    </tr>
-    <tr>
       <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
+        <img src="https://skillicons.dev/icons?i=angular" width="45" />
         <br><b>Angular</b>
       </td>
       <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
-        <br><b>Git/GitHub</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman" />
-        <br><b>API Testing</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=idea" width="45" height="45" alt="IntelliJ" />
-        <br><b>IntelliJ</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux" />
+        <img src="https://skillicons.dev/icons?i=linux" width="45" />
         <br><b>Linux</b>
       </td>
     </tr>
@@ -124,66 +110,17 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">🏆 Proyecto Destacado: Sistema de Control de Asistencia</h3>
-<p>
-  <em>Desarrollado para la I.E.P Andrés de los Reyes</em>
-</p>
-<p>
-  Diseñé y construí una solución integral para digitalizar el 100% de los registros de asistencia escolar.
-</p>
-
-- 🧱 **Arquitectura:** Hexagonal (Ports & Adapters) para desacoplar la lógica de negocio.
-- 🔧 **Backend:** NestJS con TypeScript, implementando principios SOLID.
-- ⚡ **Performance:** Algoritmos SQL optimizados para alta concurrencia.
-- 🎨 **Frontend:** Panel administrativo en Angular.
-
-<br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h3 align="left">🏅 Logros y Trofeos:</h3>
-
-<p align="center">
-  <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="80" height="80">
-</p>
-  
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=atomicplus99&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=atomicplus99&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
-</div>
-
-<br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 <h3 align="left">📊 GitHub Analytics:</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atomicplus99&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&hide=stars&show=reviews,prs_merged,prs_merged_percentage" />
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=atomicplus99&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" />
   <br><br>
-
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=atomicplus99&theme=midnight-purple&hide_border=true" />
-  </a>
-  
+  <img src="https://streak-stats.demolab.com/?user=atomicplus99&theme=midnight-purple&hide_border=true" />
   <br><br>
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atomicplus99&layout=compact&theme=midnight-purple&hide_border=true" />
 </div>
 
 <br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h3 align="left">📈 Flujo de Actividad:</h3>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atomicplus99&custom_title=Actividad%20de%20Abel%20Arias&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" />
-</div>
-
-<br><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
