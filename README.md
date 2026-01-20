@@ -6,32 +6,36 @@
 <br clear="all">
 
 <h1 align="center">Hola, soy Abel Arias 👋</h1>
-<h3 align="center">Ingeniero de Software | Backend Specialist (Java & NestJS)</h3>
+<h3 align="center">Backend Software Engineer | Java & NestJS</h3>
 
 <p align="center">
-  Soy un desarrollador de <b>Perú</b> 🇵🇪, enfocado en la construcción de arquitecturas escalables y APIs RESTful robustas. Mi especialidad es el desarrollo <b>Backend</b>, implementando microservicios y aplicando buenas prácticas como <b>Arquitectura Hexagonal</b> y principios <b>SOLID</b> para garantizar software de alta calidad.
+  Ingeniero de Software especializado en el desarrollo <b>Backend</b> robusto y escalable. Mi stack principal es <b>Java (Spring Boot)</b> y <b>TypeScript (NestJS)</b>, aplicando principios <b>SOLID</b> y <b>Arquitectura Hexagonal</b>.
 </p>
 
 <p align="center">
-  🔭 Actualmente profundizando en despliegue en la nube (AWS) y optimización de bases de datos <b>SQL</b>.
+  🚀 <b>Actualmente:</b> Profundizando en <b>Arquitectura de Microservicios</b> y despliegue en la nube.
+  <br>
+  💻 <b>Frontend:</b> Cuento con experiencia integrando interfaces de usuario con <b>Angular</b>.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=atomicplus99&label=Profile%20views&color=00ff41&style=flat" alt="atomicplus99" />
+  <img src="https://komarev.com/ghpvc/?username=atomicplus99&label=Vistas&color=00ff41&style=flat" alt="atomicplus99" />
 </p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45" style="margin: 0 10px;" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="45" height="45" style="margin: 0 10px;" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45" style="margin: 0 10px;" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="45" height="45" style="margin: 0 10px;" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45" style="margin: 0 10px;" />
+  
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="45" height="45" style="margin: 0 10px;" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="45" height="45" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45" style="margin: 0 10px;" />
 </div>
 
 <br>
