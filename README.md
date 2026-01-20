@@ -6,7 +6,7 @@
 <br clear="all">
 
 <h1 align="center">Hola, soy Abel Arias 👋</h1>
-<h3 align="center">Tec Software Engineer | Backend Specialist (Java & NestJS)</h3>
+<h3 align="center"> Software Engineer Tech | Backend Specialist (Java & NestJS)</h3>
 
 <p align="center">
   Ingeniero de Software de <b>Perú</b> 🇵🇪 enfocado en el desarrollo de soluciones <b>Backend</b> de alto rendimiento. Me especializo en diseñar y construir APIs RESTful escalables y seguras, priorizando la calidad del código a través de <b>Arquitectura Hexagonal</b>, <b>DDD</b> y principios <b>SOLID</b>.
@@ -43,14 +43,7 @@
 </div>
 <br>
 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
-</div>
+
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
