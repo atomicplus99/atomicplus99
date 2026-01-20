@@ -5,45 +5,43 @@
 </div>
 <br clear="all">
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
     <td width="60%" valign="top">
       <h1>Hola, soy Abel Arias 👋</h1>
       <h3>Backend Engineer | Java & NestJS Specialist</h3>
       
-      <br>
-      
       <p>
-        Ingeniero de Software de <b>Perú</b> 🇵🇪. Me especializo en diseñar <b>arquitecturas escalables</b> y construir sistemas Backend de alto rendimiento. Mi código prioriza la mantenibilidad usando <b>Arquitectura Hexagonal</b> y principios <b>SOLID</b>.
+        Ingeniero de Software de <b>Perú</b> 🇵🇪. Especializado en <b>Backend</b>, diseño arquitecturas escalables usando <b>Arquitectura Hexagonal</b> y principios <b>SOLID</b>.
       </p>
 
       <p>
-        🚀 <b>Enfoque Actual:</b> Diseño de <b>Microservicios</b> distribuidos, optimización de bases de datos <b>SQL</b> y despliegue en nube (AWS).
+        🚀 <b>Enfoque Actual:</b> Diseño de <b>Microservicios</b>, contenedores y despliegue en nube (AWS).
       </p>
 
       <p>
-        🛠️ <b>Capacidad Full Stack:</b> Aunque mi fuerte es el Backend, integro interfaces eficientes con <b>Angular</b> cuando el proyecto lo requiere.
+        🛠️ <b>Capacidad de Integración:</b> Desarrollo APIs robustas y cuento con experiencia integrando Frontend con <b>Angular</b>.
       </p>
 
       <h3>💻 Tech Stack</h3>
-      <div align="left">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="NestJS" width="40" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
-      </div>
+      <p align="left">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS" width="40" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
+      </p>
     </td>
     
-    <td width="40%" valign="center">
+    <td width="40%" valign="top">
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=atomicplus99&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=atomicplus99&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Stats" width="100%" />
         <br><br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atomicplus99&layout=compact&theme=radical&hide_border=true" alt="Lenguajes" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atomicplus99&layout=compact&theme=radical&hide_border=true" alt="Languages" width="100%" />
       </div>
     </td>
   </tr>
