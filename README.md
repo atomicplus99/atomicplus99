@@ -8,7 +8,7 @@
   <h1 align="center">Abel Arias Espino</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9E4C9E&center=true&vCenter=true&width=560&lines=Software+Engineer+Tech;Backend+Engineering;Java+(Spring+Boot)+%26+NestJS;Arquitectura+Hexagonal+%26+SOLID" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9E4C9E&center=true&vCenter=true&width=600&lines=Software+Engineer+Tech;Backend+Engineering;Java+(Spring+Boot)+%26+NestJS;Arquitectura+Hexagonal+%26+SOLID" />
   </a>
 </div>
 
@@ -16,21 +16,24 @@
 
 <img align="right" alt="Coding GIF" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-<h3 align="left">🚀 Sobre mí — <i>Software Engineer Tech</i></h3>
+<h3 align="left">🚀 Sobre mí</h3>
 
 <table>
   <tr>
     <td>
 
-- **Software Engineer Tech** enfocado en **Backend Engineering**.  
-- Desarrollo de **APIs REST** con **Java (Spring Boot)** y **TypeScript (NestJS)**.  
-- Diseño de software basado en **Arquitectura Hexagonal, Clean Architecture y SOLID**.  
-- Fuerte criterio en **modelado de dominio**, mantenibilidad y escalabilidad.  
-- Experiencia con **bases de datos SQL** y optimización de consultas.  
-- Actualmente profundizando en **arquitectura de microservicios** y fundamentos **cloud**.  
-- 📫 **abel.ariase.soft@gmail.com**
+**Software Engineer Tech** con enfoque en **Backend Engineering**.  
+Construyo software priorizando **arquitectura, claridad y evolución del sistema**.
 
-> ⚡ *“Menos magia, más diseño.”*
+Trabajo principalmente con **Java (Spring Boot)** y **TypeScript (NestJS)** para el desarrollo de **APIs REST escalables**, aplicando **Arquitectura Hexagonal, Clean Architecture y principios SOLID** como base técnica.
+
+Actualmente profundizando en **arquitectura de microservicios**, comunicación entre servicios y fundamentos **cloud**, con especial interés en sistemas desacoplados y preparados para crecer.
+
+Fuerte orientación a **modelado de dominio**, **bases de datos SQL** y **optimización de consultas**, siempre con foco en mantenibilidad y calidad del código.
+
+📫 **Contacto:** abel.ariase.soft@gmail.com  
+
+> ⚡ *“Menos complejidad accidental, más diseño intencional.”*
 
     </td>
   </tr>
@@ -40,7 +43,7 @@
 
 <h3 align="left">🤝 Conecta conmigo:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/aarias-code/" target="blank">
+  <a href="https://www.linkedin.com/in/aarias-code/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
   <a href="mailto:abel.ariase.soft@gmail.com">
@@ -77,26 +80,44 @@
         <br><b>NestJS</b>
       </td>
       <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=docker" width="45" />
-        <br><b>Docker</b>
+        <img src="https://skillicons.dev/icons?i=nodejs" width="45" />
+        <br><b>Node.js</b>
       </td>
     </tr>
     <tr>
       <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=postgres" width="45" />
-        <br><b>PostgreSQL</b>
+        <img src="https://skillicons.dev/icons?i=hibernate" width="45" />
+        <br><b>JPA/Hibernate</b>
       </td>
       <td align="center" width="120">
         <img src="https://skillicons.dev/icons?i=mysql" width="45" />
         <br><b>MySQL</b>
       </td>
       <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=postgres" width="45" />
+        <br><b>PostgreSQL</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=docker" width="45" />
+        <br><b>Docker</b>
+      </td>
+      <td align="center" width="120">
         <img src="https://skillicons.dev/icons?i=aws" width="45" />
         <br><b>AWS</b>
       </td>
+    </tr>
+    <tr>
       <td align="center" width="120">
         <img src="https://skillicons.dev/icons?i=angular" width="45" />
         <br><b>Angular</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=git" width="45" />
+        <br><b>Git</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=postman" width="45" />
+        <br><b>Postman</b>
       </td>
       <td align="center" width="120">
         <img src="https://skillicons.dev/icons?i=linux" width="45" />
@@ -104,6 +125,30 @@
       </td>
     </tr>
   </table>
+</div>
+
+<br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">🏆 Proyecto Destacado: Sistema de Control de Asistencia</h3>
+<p><em>Desarrollado para la I.E.P Andrés de los Reyes</em></p>
+
+<ul>
+  <li>🧱 <b>Arquitectura:</b> Hexagonal (Ports & Adapters)</li>
+  <li>🔧 <b>Backend:</b> NestJS + TypeScript</li>
+  <li>⚡ <b>Performance:</b> SQL optimizado para alta concurrencia</li>
+  <li>🎨 <b>Frontend:</b> Angular</li>
+</ul>
+
+<br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">🏅 Logros y Trofeos:</h3>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=atomicplus99&theme=matrix&no-bg=true&no-frame=true" />
 </div>
 
 <br>
@@ -124,12 +169,18 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+<h3 align="left">📈 Flujo de Actividad:</h3>
+
 <div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atomicplus99&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true" />
+</div>
+
+<br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<div align="center">
   <em><b>"La simplicidad es la máxima sofisticación."</b> — Leonardo da Vinci</em>
-  <br>
-  <em>Siempre abierto a nuevos retos. ¡Conectemos!</em>
   <br><br>
-  <p align="right"> Designed by <a href="https://github.com/atomicplus99">Abel Arias</a> </p>
+  <p align="right">Designed by <a href="https://github.com/atomicplus99">Abel Arias</a></p>
 </div>
