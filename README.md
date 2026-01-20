@@ -18,22 +18,22 @@
 
 <h3 align="left">🚀 Sobre mí</h3>
 
-<table>
+<table width="100%">
   <tr>
-    <td>
+    <td align="left" valign="top">
 
-**Software Engineer Tech** con enfoque en **Backend Engineering**.  
-Construyo software priorizando **arquitectura, claridad y evolución del sistema**.
+<strong>Software Engineer Tech</strong> enfocado en <strong>Backend Engineering</strong>.  
+Diseño y desarrollo software priorizando <strong>arquitectura, claridad y evolución del sistema</strong>.
 
-Trabajo principalmente con **Java (Spring Boot)** y **TypeScript (NestJS)** para el desarrollo de **APIs REST escalables**, aplicando **Arquitectura Hexagonal, Clean Architecture y principios SOLID** como base técnica.
+Trabajo con <strong>Java (Spring Boot)</strong> y <strong>TypeScript (NestJS)</strong> para la construcción de <strong>APIs REST escalables</strong>, aplicando <strong>Arquitectura Hexagonal, Clean Architecture y principios SOLID</strong> como base técnica.
 
-Actualmente profundizando en **arquitectura de microservicios**, comunicación entre servicios y fundamentos **cloud**, con especial interés en sistemas desacoplados y preparados para crecer.
+Actualmente profundizando en <strong>arquitectura de microservicios</strong>, comunicación entre servicios y fundamentos <strong>cloud</strong>, con enfoque en sistemas desacoplados y preparados para crecer.
 
-Fuerte orientación a **modelado de dominio**, **bases de datos SQL** y **optimización de consultas**, siempre con foco en mantenibilidad y calidad del código.
+Fuerte orientación a <strong>modelado de dominio</strong>, <strong>bases de datos SQL</strong> y <strong>optimización de consultas</strong>, manteniendo siempre la mantenibilidad y calidad del código.
 
-📫 **Contacto:** abel.ariase.soft@gmail.com  
+📫 <strong>Contacto:</strong> abel.ariase.soft@gmail.com  
 
-> ⚡ *“Menos complejidad accidental, más diseño intencional.”*
+<em>⚡ “Menos complejidad accidental, más diseño intencional.”</em>
 
     </td>
   </tr>
@@ -63,66 +63,24 @@ Fuerte orientación a **modelado de dominio**, **bases de datos SQL** y **optimi
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=java" width="45" />
-        <br><b>Java</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=spring" width="45" />
-        <br><b>Spring Boot</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=ts" width="45" />
-        <br><b>TypeScript</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=nestjs" width="45" />
-        <br><b>NestJS</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="45" />
-        <br><b>Node.js</b>
-      </td>
+      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=java" width="45"><br><b>Java</b></td>
+      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=spring" width="45"><br><b>Spring Boot</b></td>
+      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=ts" width="45"><br><b>TypeScript</b></td>
+      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=nestjs" width="45"><br><b>NestJS</b></td>
+      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=nodejs" width="45"><br><b>Node.js</b></td>
     </tr>
     <tr>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=hibernate" width="45" />
-        <br><b>JPA/Hibernate</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=mysql" width="45" />
-        <br><b>MySQL</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=postgres" width="45" />
-        <br><b>PostgreSQL</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=docker" width="45" />
-        <br><b>Docker</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=aws" width="45" />
-        <br><b>AWS</b>
-      </td>
+      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=hibernate" width="45"><br><b>JPA/Hibernate</b></td>
+      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=mysql" width="45"><br><b>MySQL</b></td>
+      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=postgres" width="45"><br><b>PostgreSQL</b></td>
+      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=docker" width="45"><br><b>Docker</b></td>
+      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=aws" width="45"><br><b>AWS</b></td>
     </tr>
     <tr>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=angular" width="45" />
-        <br><b>Angular</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=git" width="45" />
-        <br><b>Git</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=postman" width="45" />
-        <br><b>Postman</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=linux" width="45" />
-        <br><b>Linux</b>
-      </td>
+      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=angular" width="45"><br><b>Angular</b></td>
+      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=git" width="45"><br><b>Git</b></td>
+      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=postman" width="45"><br><b>Postman</b></td>
+      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=linux" width="45"><br><b>Linux</b></td>
     </tr>
   </table>
 </div>
@@ -132,7 +90,6 @@ Fuerte orientación a **modelado de dominio**, **bases de datos SQL** y **optimi
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">🏆 Proyecto Destacado: Sistema de Control de Asistencia</h3>
-<p><em>Desarrollado para la I.E.P Andrés de los Reyes</em></p>
 
 <ul>
   <li>🧱 <b>Arquitectura:</b> Hexagonal (Ports & Adapters)</li>
@@ -148,7 +105,7 @@ Fuerte orientación a **modelado de dominio**, **bases de datos SQL** y **optimi
 <h3 align="left">🏅 Logros y Trofeos:</h3>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=atomicplus99&theme=matrix&no-bg=true&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=atomicplus99&theme=matrix&no-bg=true&no-frame=true">
 </div>
 
 <br>
