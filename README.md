@@ -1,49 +1,42 @@
 <div align="center">
-  <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="15%" />
-  <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="15%" />
-  <img src="banner-arias.png" width="60%" alt="Abel Arias - Duque Code" />
+  <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="10%" />
+  <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="10%" />
+  
+  <br>
+  <img src="banner-arias.png" width="80%" alt="Abel Arias - Duque Code" />
+  
+  <h1 align="center">Abel Arias</h1>
+  <h3 align="center">Backend Engineer | Java Spring Boot & NestJS</h3>
+  <br>
 </div>
-<br clear="all">
 
-<h1 align="center">Hola, soy Abel Arias 👋</h1>
-<h3 align="center">Software Engineer | Backend Specialist (Java & NestJS)</h3>
-
-<br>
-
-<h3>🚀 Sobre mí</h3>
+<h3>⚡ Professional Summary</h3>
 <p>
-  Ingeniero de Software de <b>Perú</b> 🇵🇪. Me especializo en el diseño y desarrollo de <b>Backend</b> de alto rendimiento. Mi enfoque principal es construir arquitecturas escalables utilizando principios <b>SOLID</b> y <b>Arquitectura Hexagonal</b>.
+  Ingeniero de Software enfocado en el desarrollo <b>Backend</b> de alto nivel. Me especializo en construir arquitecturas robustas y escalables, priorizando siempre las buenas prácticas, principios <b>SOLID</b> y <b>Arquitectura Hexagonal</b>.
 </p>
 
 <ul>
-  <li>🔭 <b>Actualidad:</b> Enfocado en <b>Microservicios</b>, contenedores (Docker) y despliegue en AWS.</li>
-  <li>💻 <b>Core Stack:</b> Experto en <b>Java (Spring Boot)</b> y <b>TypeScript (NestJS)</b> para lógica de negocio compleja.</li>
-  <li>🛠️ <b>Integración:</b> Desarrollo APIs RESTful seguras y tengo capacidad de integración Frontend con <b>Angular</b>.</li>
+  <li>🎯 <b>Enfoque Actual:</b> Desarrollo de Microservicios, APIs RESTful complejas y despliegue en la nube (AWS/Docker).</li>
+  <li>🛠️ <b>Backend Mastery:</b> Desarrollo lógica de negocio avanzada con <b>Java (Spring Boot)</b> y TypeScript (NestJS).</li>
+  <li>🤝 <b>Integración:</b> Capacidad para conectar servicios con Frontend (Angular) y gestión optimizada de Bases de Datos SQL.</li>
 </ul>
 
 <br>
 
-<h3>💻 Tech Stack</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="45" height="45" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS" width="45" height="45" style="margin-right: 10px;" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="45" height="45" style="margin-right: 10px;" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="45" height="45" style="margin-right: 10px;" />
+<h3>💻 Tech Stack Principal</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres" alt="Java Stack" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=ts,nestjs,docker,aws,git" alt="JS Stack" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=angular,html,css" height="40" alt="Frontend" />
 </div>
 
 <br>
 
-<h3>📊 GitHub Stats</h3>
+<h3>📊 GitHub Activity</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atomicplus99&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atomicplus99&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=atomicplus99&show_icons=true&theme=radical&hide_border=true&count_private=true&hide=stars" height="160" alt="stats graph" />
 </p>
 
 <div align="center">
