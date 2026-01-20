@@ -1,11 +1,10 @@
 
 <div align="center">
-  <img src="banner-arias.png" width="100%" alt="Abel Arias - Duque Code" />
-</div>
+  <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="15%" />
 
-<div align="center">
-  <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%">
-  <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%">
+  <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="15%" />
+
+  <img src="banner-arias.png" width="60%" alt="Abel Arias - Duque Code" />
 </div>
 <br clear="all">
 
