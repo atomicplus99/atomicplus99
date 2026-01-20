@@ -6,16 +6,22 @@
 <br clear="all">
 
 <h1 align="center">Hola, soy Abel Arias 👋</h1>
-<h3 align="center">Backend Software Engineer | Java & NestJS</h3>
+<h3 align="center">Tec Software Engineer | Backend Specialist (Java & NestJS)</h3>
 
 <p align="center">
-  Ingeniero de Software especializado en el desarrollo <b>Backend</b> robusto y escalable. Mi stack principal es <b>Java (Spring Boot)</b> y <b>TypeScript (NestJS)</b>, aplicando principios <b>SOLID</b> y <b>Arquitectura Hexagonal</b>.
+  Ingeniero de Software de <b>Perú</b> 🇵🇪 enfocado en el desarrollo de soluciones <b>Backend</b> de alto rendimiento. Me especializo en diseñar y construir APIs RESTful escalables y seguras, priorizando la calidad del código a través de <b>Arquitectura Hexagonal</b>, <b>DDD</b> y principios <b>SOLID</b>.
 </p>
 
 <p align="center">
-  🚀 <b>Actualmente:</b> Profundizando en <b>Arquitectura de Microservicios</b> y despliegue en la nube.
-  <br>
-  💻 <b>Frontend:</b> Cuento con experiencia integrando interfaces de usuario con <b>Angular</b>.
+  💻 <b>Stack Principal:</b> Domino el ecosistema <b>Java (Spring Boot)</b> y <b>TypeScript (NestJS)</b> para la lógica de negocio compleja, junto con una gestión avanzada y optimización de bases de datos <b>SQL</b>.
+</p>
+
+<p align="center">
+  🚀 <b>Enfoque Actual:</b> Estoy dedicando mi carrera a la <b>Arquitectura de Microservicios</b>, la contenedorización y el despliegue en la nube (AWS), buscando siempre la eficiencia y escalabilidad de los sistemas.
+</p>
+
+<p align="center">
+  🛠️ <b>Competencia Adicional:</b> Poseo capacidad de integración Frontend utilizando <b>Angular</b>, lo que me permite tener una visión completa del ciclo de desarrollo de software.
 </p>
 
 <p align="center">
@@ -24,20 +30,17 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45" style="margin: 0 10px;" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="45" height="45" style="margin: 0 10px;" />
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45" style="margin: 0 10px;" />
-  
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="45" height="45" style="margin: 0 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="45" height="45" style="margin: 0 10px;" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45" style="margin: 0 10px;" />
-  
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="45" height="45" style="margin: 0 10px;" />
   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45" style="margin: 0 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="45" height="45" style="margin: 0 10px;" />
 </div>
-
 <br>
 
 <div align="center">
