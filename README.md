@@ -5,50 +5,49 @@
 </div>
 <br clear="all">
 
-<table border="0" width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <h1>Hola, soy Abel Arias 👋</h1>
-      <h3>Backend Engineer | Java & NestJS Specialist</h3>
-      
-      <p>
-        Ingeniero de Software de <b>Perú</b> 🇵🇪. Especializado en <b>Backend</b>, diseño arquitecturas escalables usando <b>Arquitectura Hexagonal</b> y principios <b>SOLID</b>.
-      </p>
+<h1 align="center">Hola, soy Abel Arias 👋</h1>
+<h3 align="center">Software Engineer | Backend Specialist (Java & NestJS)</h3>
 
-      <p>
-        🚀 <b>Enfoque Actual:</b> Diseño de <b>Microservicios</b>, contenedores y despliegue en nube (AWS).
-      </p>
+<br>
 
-      <p>
-        🛠️ <b>Capacidad de Integración:</b> Desarrollo APIs robustas y cuento con experiencia integrando Frontend con <b>Angular</b>.
-      </p>
+<h3>🚀 Sobre mí</h3>
+<p>
+  Ingeniero de Software de <b>Perú</b> 🇵🇪. Me especializo en el diseño y desarrollo de <b>Backend</b> de alto rendimiento. Mi enfoque principal es construir arquitecturas escalables utilizando principios <b>SOLID</b> y <b>Arquitectura Hexagonal</b>.
+</p>
 
-      <h3>💻 Tech Stack</h3>
-      <p align="left">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS" width="40" height="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
-      </p>
-    </td>
-    
-    <td width="40%" valign="top">
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=atomicplus99&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Stats" width="100%" />
-        <br><br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atomicplus99&layout=compact&theme=radical&hide_border=true" alt="Languages" width="100%" />
-      </div>
-    </td>
-  </tr>
-</table>
+<ul>
+  <li>🔭 <b>Actualidad:</b> Enfocado en <b>Microservicios</b>, contenedores (Docker) y despliegue en AWS.</li>
+  <li>💻 <b>Core Stack:</b> Experto en <b>Java (Spring Boot)</b> y <b>TypeScript (NestJS)</b> para lógica de negocio compleja.</li>
+  <li>🛠️ <b>Integración:</b> Desarrollo APIs RESTful seguras y tengo capacidad de integración Frontend con <b>Angular</b>.</li>
+</ul>
+
+<br>
+
+<h3>💻 Tech Stack</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="45" height="45" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS" width="45" height="45" style="margin-right: 10px;" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="45" height="45" style="margin-right: 10px;" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="45" height="45" style="margin-right: 10px;" />
+</div>
+
+<br>
+
+<h3>📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atomicplus99&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atomicplus99&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=atomicplus99&label=Profile%20Views&color=00ff41&style=for-the-badge" alt="atomicplus99" />
+  <img src="https://komarev.com/ghpvc/?username=atomicplus99&label=Profile%20Views&color=00ff41&style=flat" alt="atomicplus99" />
 </div>
 
 
