@@ -8,23 +8,36 @@
 </div>
 <br clear="all">
 
+<h1 align="center">Hola, soy Abel Arias 👋</h1>
+<h3 align="center">Ingeniero de Software | Backend Specialist (Java & NestJS)</h3>
 
-<h1 align="center">Hola, Soy Abel Arias</h1>
-<h3 align="center">A passionate Programmer from Sri lanka</h3>
-<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
-<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
-<!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
+<p align="center">
+  Soy un desarrollador apasionado de <b>Perú</b> 🇵🇪, especializado en la construcción de arquitecturas escalables y APIs RESTful robustas. Me enfoco en el desarrollo <b>Backend</b> utilizando buenas prácticas como <b>Arquitectura Hexagonal</b> y principios <b>SOLID</b> para crear software de alta calidad.
+</p>
+
+<p align="center">
+  🔭 Actualmente estoy profundizando en microservicios y despliegue en la nube.<br>
+  🌱 Experto en integración Full Stack con <b>Angular</b> y gestión avanzada de bases de datos <b>SQL</b>.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=atomicplus99&label=Profile%20views&color=00ff41&style=flat" alt="atomicplus99" />
 </p>
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
- <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50" style="margin: 0 10px;" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50" style="margin: 0 10px;" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" style="margin: 0 10px;" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="50" height="50" style="margin: 0 10px;" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50" style="margin: 0 10px;" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" style="margin: 0 10px;" />
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="50" height="50" style="margin: 0 10px;" />
 </div>
 
 <br>
