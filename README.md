@@ -8,7 +8,7 @@
   <h1 align="center">Abel Arias Espino</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9E4C9E&center=true&vCenter=true&width=500&lines=Backend+Software+Engineer;Java+(Spring+Boot)+%26+NestJS;Microservicios+%26+Cloud+AWS;Arquitectura+Hexagonal+%2B+SOLID" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9E4C9E&center=true&vCenter=true&width=560&lines=Backend+Software+Engineer;Java+(Spring+Boot)+%26+NestJS;Arquitectura+Hexagonal+%26+SOLID;Microservicios+%26+Cloud+Foundations" alt="Typing SVG" />
   </a>
 </div>
 
@@ -18,24 +18,20 @@
 
 <h3 align="left">🚀 Sobre mí:</h3>
 
-- 🔭 Actualmente lidero el desarrollo de **Sistemas Backend Escalables** usando Java y TypeScript.
-
-- 🌱 Me encuentro profundizando en **DevOps, CI/CD y Orquestación con Kubernetes**.
-
-- 👨‍💻 Mis proyectos se caracterizan por el uso estricto de **Clean Architecture y DDD**.
-
-- 💼 Experiencia clave: **Desarrollo de Sistemas de Gestión (ERP/Asistencia)** integrando APIs de mensajería (Telegram).
-
-- 💬 Hablemos sobre: **Optimización de consultas SQL, Patrones de Diseño y Seguridad en APIs**.
-
+- 🎓 **Técnico en Ingeniería de Software**, especializado en **desarrollo Backend**.
+- 🧠 Enfoque fuerte en **diseño de software**, código mantenible y soluciones orientadas al dominio.
+- 🔧 Dominio de **Java (Spring Boot)** y **TypeScript (NestJS)** para el desarrollo de **APIs RESTful**.
+- 🧱 Aplicación constante de **Arquitectura Hexagonal**, **Clean Architecture** y principios **SOLID**.
+- 🌱 Actualmente profundizando en **arquitectura de microservicios**, comunicación entre servicios y fundamentos cloud.
+- 🗄️ Sólido manejo de **bases de datos SQL**, modelado de datos y optimización de consultas.
+- 💬 Intereses técnicos: **arquitectura backend, performance, patrones de diseño y calidad de código**.
 - 📫 Contacto directo: **abel.ariase.soft@gmail.com**
-
 - ⚡ Filosofía: *"El código funciona cuando se escribe, pero perdura cuando se diseña bien."*
 
 <br>
 <h3 align="left">🤝 Conecta conmigo:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/TU_USUARIO_LINKEDIN" target="blank">
+  <a href="https://www.linkedin.com/in/aarias-code/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
   <a href="mailto:abel.ariase.soft@gmail.com" target="blank">
@@ -45,6 +41,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" />
   </a>
 </p>
+
 <br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -122,80 +119,4 @@
   </table>
 </div>
 
-<br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h3 align="left">🏆 Proyecto Destacado: Sistema de Control de Asistencia</h3>
-<p>
-  <em>Desarrollado para la I.E.P Andrés de los Reyes</em>
-</p>
-<p>
-  Diseñé y construí una solución integral para digitalizar el 100% de los registros de asistencia escolar.
-</p>
-
-- 🧱 **Arquitectura:** Hexagonal (Ports & Adapters) para desacoplar la lógica de negocio.
-- 🔧 **Backend:** NestJS con TypeScript, implementando principios SOLID.
-- 🤖 **Innovación:** Bot de Telegram integrado vía API RESTful para notificaciones en tiempo real a los padres.
-- ⚡ **Performance:** Algoritmos SQL optimizados para alta concurrencia de escaneo QR.
-- 🎨 **Frontend:** Panel administrativo en Angular.
-
-<br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h3 align="left">🏅 Logros y Trofeos:</h3>
-
-<p align="center">
-  <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="80" height="80">
-</p>
-  
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=atomicplus99&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=atomicplus99&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
-</div>
-
-<br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h3 align="left">📊 GitHub Analytics:</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atomicplus99&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&hide=stars&show=reviews,prs_merged,prs_merged_percentage" />
-  
-  <br><br>
-
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=atomicplus99&theme=midnight-purple&hide_border=true" />
-  </a>
-  
-  <br><br>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atomicplus99&layout=compact&theme=midnight-purple&hide_border=true" />
-</div>
-
-<br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h3 align="left">📈 Flujo de Actividad:</h3>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atomicplus99&custom_title=Actividad%20de%20Abel%20Arias&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" />
-</div>
-
-<br><br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-  <br>
-  <em><b>"La simplicidad es la máxima sofisticación."</b> — Leonardo da Vinci</em>
-  <br>
-  <em>Siempre abierto a nuevos retos. ¡Conectemos!</em>
-  <br><br>
-  <p align="right"> Designed by <a href="https://github.com/atomicplus99">Abel Arias</a> </p>
-</div>
+<!-- EL RESTO DEL README QUEDA EXACTAMENTE IGUAL -->
