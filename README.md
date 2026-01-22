@@ -118,18 +118,33 @@ Fuerte orientación a <strong>modelado de dominio</strong>, <strong>bases de dat
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<div align="center">
-  <em><b>"La simplicidad es la máxima sofisticación."</b> — Leonardo da Vinci</em>
-  <br><br>
-  <p align="right">Designed by <a href="https://github.com/atomicplus99">Abel Arias</a></p>
-</div>
-<h3 align="left">🧠 En qué estoy trabajando actualmente</h3>
+<<h3 align="left">🧠 En qué estoy trabajando actualmente</h3>
 
+<div style="padding:18px;border-left:4px solid #9E4C9E;background-color:#0d1117;border-radius:10px">
+
+🔧 <strong>Evolución de proyectos reales</strong>  
 <ul>
-  <li>Refactorización de proyectos legacy para mejorar mantenibilidad y claridad.</li>
-  <li>Mejor separación de responsabilidades (controllers, servicios, dominio).</li>
-  <li>Aplicación práctica de principios SOLID y Clean Architecture.</li>
-  <li>Diseño de APIs REST más coherentes y orientadas al dominio.</li>
-  <li>Fortaleciendo validaciones, manejo de errores y reglas de negocio.</li>
-  <li>Consolidando buenas prácticas en proyectos reales, no solo académicos.</li>
+  <li>Refactorización progresiva de proyectos legacy para mejorar mantenibilidad.</li>
+  <li>Reducción de acoplamiento y mejor separación de responsabilidades.</li>
 </ul>
+
+🧱 <strong>Arquitectura & Diseño</strong>  
+<ul>
+  <li>Aplicación práctica de principios SOLID y Clean Architecture.</li>
+  <li>Diseño de APIs REST orientadas al dominio y reglas de negocio.</li>
+</ul>
+
+🛡️ <strong>Calidad y Robustez</strong>  
+<ul>
+  <li>Fortaleciendo validaciones, manejo de errores y flujos de autenticación.</li>
+  <li>Mejorando consistencia y claridad del código a largo plazo.</li>
+</ul>
+
+🚀 <strong>Aprendizaje enfocado</strong>  
+<ul>
+  <li>Consolidando buenas prácticas en proyectos reales, no solo académicos.</li>
+  <li>Priorizando simplicidad, intención y evolución continua del sistema.</li>
+</ul>
+
+</div>
+
