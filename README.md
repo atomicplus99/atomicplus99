@@ -118,33 +118,48 @@ Fuerte orientación a <strong>modelado de dominio</strong>, <strong>bases de dat
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<<h3 align="left">🧠 En qué estoy trabajando actualmente</h3>
+<h3 align="left">En qué estoy trabajando actualmente</h3>
 
-<div style="padding:18px;border-left:4px solid #9E4C9E;background-color:#0d1117;border-radius:10px">
+<div style="padding:20px;border-left:4px solid #9E4C9E;background-color:#0d1117;border-radius:12px">
 
-🔧 <strong>Evolución de proyectos reales</strong>  
+<p>
+Mi enfoque actual está orientado a la <strong>evolución consciente de proyectos reales</strong>,
+priorizando la calidad del diseño, la mantenibilidad y la claridad del código por encima
+de soluciones rápidas o meramente funcionales.
+</p>
+
 <ul>
-  <li>Refactorización progresiva de proyectos legacy para mejorar mantenibilidad.</li>
-  <li>Reducción de acoplamiento y mejor separación de responsabilidades.</li>
+  <li>
+    Refactorización progresiva de proyectos existentes, identificando y reduciendo
+    acoplamientos innecesarios.
+  </li>
+  <li>
+    Reorganización de la lógica de negocio para lograr una mejor separación entre
+    controladores, servicios y dominio.
+  </li>
+  <li>
+    Aplicación práctica de principios SOLID y patrones comunes de Clean Architecture
+    en contextos reales.
+  </li>
+  <li>
+    Diseño de APIs REST más coherentes, enfocadas en el dominio y en reglas de negocio
+    claramente definidas.
+  </li>
+  <li>
+    Fortalecimiento de validaciones, manejo de errores y consistencia de datos para
+    mejorar la robustez del sistema.
+  </li>
+  <li>
+    Consolidación de buenas prácticas a partir de la iteración y mejora continua,
+    evitando soluciones puramente académicas.
+  </li>
 </ul>
 
-🧱 <strong>Arquitectura & Diseño</strong>  
-<ul>
-  <li>Aplicación práctica de principios SOLID y Clean Architecture.</li>
-  <li>Diseño de APIs REST orientadas al dominio y reglas de negocio.</li>
-</ul>
-
-🛡️ <strong>Calidad y Robustez</strong>  
-<ul>
-  <li>Fortaleciendo validaciones, manejo de errores y flujos de autenticación.</li>
-  <li>Mejorando consistencia y claridad del código a largo plazo.</li>
-</ul>
-
-🚀 <strong>Aprendizaje enfocado</strong>  
-<ul>
-  <li>Consolidando buenas prácticas en proyectos reales, no solo académicos.</li>
-  <li>Priorizando simplicidad, intención y evolución continua del sistema.</li>
-</ul>
+<p>
+Este proceso me permite construir software más predecible, entendible y preparado
+para evolucionar en el tiempo.
+</p>
 
 </div>
+
 
