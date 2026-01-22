@@ -123,3 +123,13 @@ Fuerte orientación a <strong>modelado de dominio</strong>, <strong>bases de dat
   <br><br>
   <p align="right">Designed by <a href="https://github.com/atomicplus99">Abel Arias</a></p>
 </div>
+<h3 align="left">🧠 En qué estoy trabajando actualmente</h3>
+
+<ul>
+  <li>Refactorización de proyectos legacy para mejorar mantenibilidad y claridad.</li>
+  <li>Mejor separación de responsabilidades (controllers, servicios, dominio).</li>
+  <li>Aplicación práctica de principios SOLID y Clean Architecture.</li>
+  <li>Diseño de APIs REST más coherentes y orientadas al dominio.</li>
+  <li>Fortaleciendo validaciones, manejo de errores y reglas de negocio.</li>
+  <li>Consolidando buenas prácticas en proyectos reales, no solo académicos.</li>
+</ul>
